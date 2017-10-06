@@ -7,5 +7,5 @@ function destructivelyPrependKitten(name) {
 }
 
 function destructivelyAppendKitten(name) {
-  kittens.push.(name)
+  kittens.push(name)
 }
